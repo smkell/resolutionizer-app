@@ -1,0 +1,3 @@
+[submodule "resolutionizer"]
+	path = resolutionizer
+	url = https://github.com/smkell/resolutionizer
